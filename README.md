@@ -48,7 +48,7 @@ python run_model_based_test.py
 
 ## Experimental Results
 <div style="display:flex;">
-  <img src="https://github.com/pengzhi1998/Model_based_active_mapping/blob/main/3landmarks.gif" width="30%">
-  <img src="https://github.com/pengzhi1998/Model_based_active_mapping/blob/main/5landmarks.gif" width="30%">
-  <img src="https://github.com/pengzhi1998/Model_based_active_mapping/blob/main/7landmarks.gif" width="30%">
+  <img src="https://github.com/ExistentialRobotics/RL_Active_Multi_Target_Tracking/blob/main/3landmarks.gif" width="30%">
+  <img src="https://github.com/ExistentialRobotics/RL_Active_Multi_Target_Tracking/blob/main/5landmarks.gif" width="30%">
+  <img src="https://github.com/ExistentialRobotics/RL_Active_Multi_Target_Tracking/blob/main/7landmarks.gif" width="30%">
 </div>
